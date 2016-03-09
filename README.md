@@ -1,1 +1,1 @@
-# Backing store for reference documents.
+# Backing Store for Documents
