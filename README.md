@@ -1,2 +1,1 @@
-# library
-Backing store for reference documents.
+# Backing store for reference documents.
